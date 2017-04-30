@@ -1,6 +1,8 @@
 /*
  * Programm um über den Wert von Pin 13 die interne LED am
  * Arduino Uno zum Blinken zu bringen
+ * 
+ * ursprünglich aus den Beispielen der IDE
  */
 
 
