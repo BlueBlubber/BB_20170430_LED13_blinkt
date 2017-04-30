@@ -7,7 +7,8 @@
 
 
 void setup() {               
-  pinMode(13, OUTPUT);   //Pin 13 soll Ausgang sein 
+  pinMode(13, OUTPUT);   // Pin 13 soll Ausgang sein
+  pinMode(12, INPUT);    // Pin 12 soll ein Eingang sein 
 }
 
 
